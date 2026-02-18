@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include <ctype.h>ae
+#include <ctype.h>
 
 int main() {
     char senha[100];
